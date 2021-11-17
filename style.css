@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}   
+
+img{
+	height: 500px;
+	width: 550px;
+	border-color: cyan;
+	border-style: double;
+}
